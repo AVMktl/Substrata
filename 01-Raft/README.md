@@ -52,4 +52,4 @@ Analysis - Mathematically both will be same but Architecually they aren't.
 
 ---
 ## 6. References
-- [Technical Documentation]
+- Ongaro, D., & Ousterhout, J. (2014). In Search of an Understandable Consensus Algorithm.
